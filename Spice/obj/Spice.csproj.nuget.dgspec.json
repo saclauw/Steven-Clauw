@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\Spice\\Spice\\Spice.csproj": {}
+    "C:\\ExperienceIT\\Steven-Clauw\\Spice\\Spice.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\Spice\\Spice\\Spice.csproj": {
+    "C:\\ExperienceIT\\Steven-Clauw\\Spice\\Spice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Spice\\Spice\\Spice.csproj",
+        "projectUniqueName": "C:\\ExperienceIT\\Steven-Clauw\\Spice\\Spice.csproj",
         "projectName": "Spice",
-        "projectPath": "C:\\Projects\\Spice\\Spice\\Spice.csproj",
+        "projectPath": "C:\\ExperienceIT\\Steven-Clauw\\Spice\\Spice.csproj",
         "packagesPath": "C:\\Users\\sacla\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Spice\\Spice\\obj\\",
+        "outputPath": "C:\\ExperienceIT\\Steven-Clauw\\Spice\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
