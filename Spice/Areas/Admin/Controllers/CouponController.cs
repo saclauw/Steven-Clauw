@@ -7,9 +7,12 @@ using Spice.Data;
 using Microsoft.EntityFrameworkCore;
 using System.IO;
 using Spice.Models;
+using Microsoft.AspNetCore.Authorization;
+using Spice.Utility;
 
 namespace Spice.Areas.Admin.Controllers
 {
+    [Authorize(Roles = SD.ManagerUser)]
     [Area("Admin")]
     public class CouponController : Controller
     {

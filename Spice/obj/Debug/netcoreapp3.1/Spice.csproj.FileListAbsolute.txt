@@ -987,3 +987,4 @@ C:\ExperienceIT\Steven-Clauw\Spice\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Vie
 C:\ExperienceIT\Steven-Clauw\Spice\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Coupon\Details.cshtml.g.cs
 C:\ExperienceIT\Steven-Clauw\Spice\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Coupon\Delete.cshtml.g.cs
 C:\ExperienceIT\Steven-Clauw\Spice\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ThumbnailAreaPartial.cshtml.g.cs
+C:\ExperienceIT\Steven-Clauw\Spice\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\User\Index.cshtml.g.cs
