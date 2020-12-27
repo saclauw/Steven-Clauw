@@ -129,7 +129,7 @@ namespace Spice.Areas.Admin.Controllers
                 couponFromDb.Name = coupon.Name;
                 couponFromDb.CouponType = coupon.CouponType;
                 couponFromDb.Discount = coupon.Discount;
-                couponFromDb.MinumumAmount = coupon.MinumumAmount;
+                couponFromDb.MinimumAmount = coupon.MinimumAmount;
                 couponFromDb.IsActive = coupon.IsActive;
 
                 await _db.SaveChangesAsync();

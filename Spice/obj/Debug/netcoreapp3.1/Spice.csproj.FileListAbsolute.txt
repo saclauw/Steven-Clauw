@@ -988,3 +988,11 @@ C:\ExperienceIT\Steven-Clauw\Spice\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Vie
 C:\ExperienceIT\Steven-Clauw\Spice\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Coupon\Delete.cshtml.g.cs
 C:\ExperienceIT\Steven-Clauw\Spice\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ThumbnailAreaPartial.cshtml.g.cs
 C:\ExperienceIT\Steven-Clauw\Spice\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\User\Index.cshtml.g.cs
+C:\ExperienceIT\Steven-Clauw\Spice\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\Home\Details.cshtml.g.cs
+C:\ExperienceIT\Steven-Clauw\Spice\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\Cart\Index.cshtml.g.cs
+C:\ExperienceIT\Steven-Clauw\Spice\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\Cart\Summary.cshtml.g.cs
+C:\ExperienceIT\Steven-Clauw\Spice\bin\Debug\netcoreapp3.1\Stripe.net.dll
+C:\ExperienceIT\Steven-Clauw\Spice\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\Order\Confirm.cshtml.g.cs
+C:\ExperienceIT\Steven-Clauw\Spice\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_IndividualOrderDetails.cshtml.g.cs
+C:\ExperienceIT\Steven-Clauw\Spice\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\Order\OrderHistory.cshtml.g.cs
+C:\ExperienceIT\Steven-Clauw\Spice\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_OrderStatus.cshtml.g.cs
