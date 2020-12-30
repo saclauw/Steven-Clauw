@@ -40,6 +40,12 @@ namespace Spice
                 .AddDefaultTokenProviders()
                 .AddEntityFrameworkStores<ApplicationDbContext>();
 
+            services.AddAuthentication().AddFacebook(facebookOptions =>
+            {
+                facebookOptions.AppId = "744015512913733";
+                facebookOptions.AppSecret = "0c580351eefd8cdfe1d2f94d1052ddc9";
+            });
+
             services.Configure<StripeSettings>(Configuration.GetSection("Stripe"));
 
             services.AddSingleton<IEmailSender, EmailSender>();
