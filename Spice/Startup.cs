@@ -47,6 +47,8 @@ namespace Spice
                 facebookOptions.AppSecret = "0c580351eefd8cdfe1d2f94d1052ddc9";
             });
 
+            services.AddScoped<IDbInitializer, DbInitializer>();
+
             services.Configure<StripeSettings>(Configuration.GetSection("Stripe"));
             
             services.AddSingleton<IEmailSender, EmailSender>();
@@ -85,7 +87,7 @@ namespace Spice
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env, IDbInitializer dbInitializer)
         {
             if (env.IsDevelopment())
             {
@@ -103,6 +105,7 @@ namespace Spice
 
             app.UseRouting();
             StripeConfiguration.SetApiKey(Configuration.GetSection("Stripe")["SecretKey"]);
+            dbInitializer.Initialize();
             app.UseCookiePolicy();
             app.UseAuthentication();
             app.UseAuthorization();
