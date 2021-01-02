@@ -1001,3 +1001,4 @@ C:\ExperienceIT\Steven-Clauw\Spice\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\
 C:\ExperienceIT\Steven-Clauw\Spice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Facebook.dll
 C:\ExperienceIT\Steven-Clauw\Spice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
 C:\ExperienceIT\Steven-Clauw\Spice\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\UserName\Default.cshtml.g.cs
+C:\ExperienceIT\Steven-Clauw\Spice\bin\Debug\netcoreapp3.1\SendGrid.dll
