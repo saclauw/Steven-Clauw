@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "u4jrIPl9S0EbXmUo2LhHNqrNjfGwjGM3VQJNuh6ugjbM0oK9Fe88oou+32JI8Iu9mUDGaGFpb8xEFvkQ7HmgoA==",
+  "dgSpecHash": "Xs8RYwPgD9b18Lzoh4WFSIfkl4+U994eTXgrOTuRT2ozcRfodCGWMb0PnJNwbSM3rvIP35z336JESRpKkjDBlQ==",
   "success": true,
   "projectFilePath": "C:\\ExperienceIT\\Steven-Clauw\\Spice\\Spice.csproj",
   "expectedPackageFiles": [
@@ -60,7 +60,6 @@
     "C:\\Users\\sacla\\.nuget\\packages\\microsoft.identitymodel.tokens\\5.5.0\\microsoft.identitymodel.tokens.5.5.0.nupkg.sha512",
     "C:\\Users\\sacla\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
     "C:\\Users\\sacla\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
-    "C:\\Users\\sacla\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
     "C:\\Users\\sacla\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration\\3.1.4\\microsoft.visualstudio.web.codegeneration.3.1.4.nupkg.sha512",
     "C:\\Users\\sacla\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.contracts\\3.1.4\\microsoft.visualstudio.web.codegeneration.contracts.3.1.4.nupkg.sha512",
     "C:\\Users\\sacla\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.core\\3.1.4\\microsoft.visualstudio.web.codegeneration.core.3.1.4.nupkg.sha512",
